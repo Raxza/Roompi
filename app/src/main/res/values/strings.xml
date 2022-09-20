@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Roompi</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account_sign_up">don\'t have an account? sign up</string>
+    <string name="here">here</string>
+    <string name="insert_email">Insert Email</string>
+    <string name="insert_password">Insert Password</string>
+    <string name="aunthentication_failed">Authentication failed</string>
+    <string name="sign_out">Sign out</string>
+</resources>
